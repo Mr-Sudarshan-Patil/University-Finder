@@ -1,4 +1,4 @@
-let url = "http://universities.hipolabs.com/search?name=";
+let url = "https://universities.hipolabs.com/search?name=";
 
 let btn = document.querySelector("button");
 let input = document.querySelector("input");
